@@ -29,4 +29,8 @@
 <br>
 </div>
 [![Sy1125's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy1125&show_icons=true&theme=radical)](https://github.com/sy1125/github-readme-stats)
+<br>
 ![sy1125's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy1125&show_icons=true&theme=radical)
+<br>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sy1125&show_icons=true&theme=tokyonight)
+<br>
