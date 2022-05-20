@@ -3,7 +3,7 @@
 <!-- body -->
 <div align="center">
 
-## 🙌Introduction🙌    
+**🙌Introduction🙌**    
 저의 깃허브의 오신것을 환영합니다!    
 현재 퍼블리셔로 근무중이며,    
 늘 처음과 같은 자세로 많은 것을 배우고자 노력하고 있습니다.    
