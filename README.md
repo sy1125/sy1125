@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&desc=Sy`s%20GitHub&descAlignY=70&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&desc=Seonyong`s%20GitHub%20Repositiory&descAlignY=70&fontSize=90)
 <!--
 **sy1125/sy1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
