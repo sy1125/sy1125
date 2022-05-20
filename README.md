@@ -27,5 +27,5 @@
 <br>
 <br>
 <br>
-![sy1125's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy1125&show_icons=true&theme=radical)
 </div>
+![sy1125's gitHub stats](https://github-readme-stats.vercel.app/api?username=sy1125&show_icons=true&theme=radical)
