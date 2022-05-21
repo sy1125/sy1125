@@ -29,16 +29,22 @@
 <br>
 </div>
 
-[![sy1125's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy1125&show_icons=true&theme=radical)](https://github.com/sy1125/github-readme-stats)
+[![sy1125's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy1125&show_icons=true&theme=dark)](https://github.com/sy1125/github-readme-stats)
 <br>
 
-![sy1125's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy1125&show_icons=true&theme=radical)
+![sy1125's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy1125&show_icons=true&theme=merko)
 <br>
 
-![sy1125`s github stats](https://github-readme-stats.vercel.app/api?username=sy1125&show_icons=true&theme=tokyonight)
+![sy1125`s github stats](https://github-readme-stats.vercel.app/api?username=sy1125&show_icons=true&theme=gruvbox)
 <br>
 
-![sy1125`s GitHub stats](https://github-readme-stats.vercel.app/api?username=sy1125&show_icons=true&theme=radical)
+![sy1125`s GitHub stats](https://github-readme-stats.vercel.app/api?username=sy1125&show_icons=true&theme=onedark)
 <br>
 
-![sy1125's github stats](https://github-readme-stats.vercel.app/api?username=sy1125&show_icons=true)
+![sy1125's github stats](https://github-readme-stats.vercel.app/api?username=sy1125&show_icons=true&theme=synthwave)
+<br>
+
+![sy1125's github stats](https://github-readme-stats.vercel.app/api?username=sy1125&show_icons=true&theme=highcontrast)
+<br>
+
+![sy1125's github stats](https://github-readme-stats.vercel.app/api?username=sy1125&show_icons=true&theme=dracula)
