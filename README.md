@@ -34,3 +34,4 @@
 <br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sy1125&show_icons=true&theme=tokyonight)
 <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qnfto7898&show_icons=true&theme=radical)
