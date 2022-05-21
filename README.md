@@ -1,5 +1,5 @@
 <!-- header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=81c147&height=350&section=header&text=Welcome!&fontAlignY=60&desc=Seonyong`s%20GitHub%20Repositiory&descAlignY=70&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=81c147&height=350&section=header&text=Welcome!&fontAlignY=40&desc=Seonyong`s%20GitHub%20Repositiory&descAlignY=70&fontSize=90)
 <!-- body -->
 <div align="center">
 
