@@ -29,14 +29,10 @@
 
 ### 📝Studying📝
 
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
-<br>
-<br>
-<br>
 
-![sy1125's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy1125&show_icons=true&theme=merko)
+<br>
+<br>
+<br>
 
 </div>
