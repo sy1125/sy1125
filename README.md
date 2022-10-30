@@ -27,13 +27,5 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
-<br>
-<br>
-<br>
-
-
-<br>
-<br>
-<br>
 
 </div>
